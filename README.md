@@ -20,6 +20,7 @@ inflation: Annual growth rate of the total GDP.
 life_expec: Average number of years a newborn child is expected to live, based on current mortality patterns.
 total_fer: Number of children that would be born to each woman if current age-fertility rates remain unchanged.
 gdpp: GDP per capita, calculated as total GDP divided by total population.
+
 GitHub link: https://github.com/ammarhameed/DTSA-5510
 
 Dataset link: https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data
